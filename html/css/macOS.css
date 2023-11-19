@@ -1,9 +1,9 @@
-body {
-    font-size: 20px;
-}
 .container {
     width: 60vw;
     margin: auto;
+}
+li {
+    margin-bottom: 1em;
 }
 code {
     background-color: rgb(208, 241, 201);
